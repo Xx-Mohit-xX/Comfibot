@@ -26,6 +26,8 @@
 * Logging System
 * Ticket System
 * Warning System
+* Timeout System
+* Anti Scam System
 * Welcome | Leave System
 <br> 
  <h1>🏩 Contact us | Support</h1> 
